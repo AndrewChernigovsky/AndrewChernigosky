@@ -63,7 +63,7 @@
 </td><td valign="top" width="33%">
 
 <p align="center" dir="auto">
- <a target="_blank" rel="noopener noreferrer" href="/AndrewChernigovsky/blob/main/assets/animateSnake.svg"><img width="600" src="/AndrewChernigovsky/assets/animateSnake.svg" alt="snake" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="/AndrewChernigovsky/blob/main/assets/animateSnake.svg"><img width="600" src="/AndrewChernigovsky/main/assets/animateSnake.svg" alt="snake" style="max-width: 100%;"></a>
 </p>
 
 ### DevOps  
