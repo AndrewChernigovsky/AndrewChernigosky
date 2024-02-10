@@ -62,7 +62,9 @@
 
 </td><td valign="top" width="33%">
 
-
+<p align="center" dir="auto">
+ <a target="_blank" rel="noopener noreferrer" href="/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg"><img width="600" src="/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
+</p>
 
 ### DevOps  
 <div align="center">  
@@ -119,12 +121,5 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center"><img src="https://andrewchernigovsky.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=andrewchernigovsky&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
