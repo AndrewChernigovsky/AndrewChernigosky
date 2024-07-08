@@ -18,7 +18,7 @@
 - 🌱 Я очень любознательный и стараюсь расширять кругозор. Имел опыт с Ngnix, Linux, PHP, MySQL, FileZilla, OpenServer, VDS, hosting и не только.
   
 
-- ❓ Можете спрашивать меня все про JS HTML CSS SASS|LESS GULP WEBPACK REACT GIT GITHUB 
+- ❓ Можете спрашивать меня все про JS TS HTML CSS SASS|LESS GULP WEBPACK REACT VUE GIT GITHUB REDUX MOBX VUEX PINIA SWAGGER SEQUALIZE POSTGRESQL 
   
 
 - ⚡ Забавный факт: предпочитаю табы вместо пробелов.
