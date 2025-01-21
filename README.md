@@ -35,7 +35,7 @@
 ### <div align="center">Я Андрей, являюсь штмл-верстальщиком с 2022 и фронтенд-разработчиком с 2023, фрилансер 👨‍💻 в теме ИТ с 2021 🚀</div>  
   
 
-- 🔭 Сейчас работаю над [Autosyngalisations](https://github.com/AndrewChernigovsky/autosignalization-kz-php)
+- 🔭 Сейчас работаю над [Autosyngalisations](https://github.com/AndrewChernigovsky/autosygnalization-kz-php)
   
 
 - 🌱 Я очень любознательный и стараюсь расширять кругозор. Имел опыт с Ngnix, Linux, PHP, MySQL, FileZilla, OpenServer, VDS, hosting и не только.
